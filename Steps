@@ -1,0 +1,45 @@
+Login Steps Java File
+Test Runner
+Dependencies:
+Cucumber-Junit
+JUnit
+Selenium Server
+
+Swag labs feature & Login test
+
+Open account
+go to cart
+when :
+datatable
+item 1 item 2 item 3
+
+
+POM : Page Object Model
+Design pattern to create Object repository
+A class is created for each page to identify web elements of that page
+It also contains methods to perform actions on the objects
+it also separates test objects and test scripts
+
+Advantages:
+1. Maintainability
+2. Usability
+3. Readability
+4. Easier to understand
+5. Faster
+6. Efficient/reliable
+
+Page factory In BDD Cucumber : Important
+Page factory is a simple and easier implementation of POM in Selenium
+It is Selenium's in-built and optimized Page Object Model
+Here also, the objects and tests are separated
+
+We use annotations @FindBy to find the web elements
+
+It uses the method initElements() to initialize the web elements
+
+Nodejs
+RestAssured API Testing
+PostMan
+
+
+
